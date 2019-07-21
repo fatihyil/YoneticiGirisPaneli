@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\bin\Debug\HakTekrar.exe.config
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\bin\Debug\HakTekrar.exe
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\bin\Debug\HakTekrar.pdb
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.Form1.resources
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.Properties.Resources.resources
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.exe
+C:\Users\Fatih\Desktop\HakTekrar\HakTekrar\obj\Debug\HakTekrar.pdb
